@@ -132,8 +132,8 @@ CALCULATE(
 ---
 
 # Technologies Used
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8f8404d1-e2bd-454a-aae5-
-    f5ffb38f02c4" />
+<img width="1203" height="680" alt="image" src="https://github.com/user-attachments/assets/f0e65328-7600-4881-b78f-9ee35c137262" />
+
     <img width="1208" height="675" alt="image" src="https://github.com/user-attachments/assets/10ee1974-4e48-44a7-bcef-4d7b31763f67" />
 
 
