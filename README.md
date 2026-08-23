@@ -133,8 +133,8 @@ CALCULATE(
 
 # Technologies Used
 <img width="1203" height="680" alt="image" src="https://github.com/user-attachments/assets/f0e65328-7600-4881-b78f-9ee35c137262" />
+<img width="1206" height="675" alt="image" src="https://github.com/user-attachments/assets/dc178a39-890c-4b00-9b9e-6bd31062f685" />
 
-    <img width="1208" height="675" alt="image" src="https://github.com/user-attachments/assets/10ee1974-4e48-44a7-bcef-4d7b31763f67" />
 
 
 - Power BI Desktop
